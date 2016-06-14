@@ -1,5 +1,5 @@
 {
-  "name": "country-info",
+  "name": "node-country-info",
   "version": "1.0.0",
   "description": "This is a library that helps to get general country information",
   "main": "index.js",
