@@ -1,6 +1,6 @@
 {
   "name": "node-country-info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a library that helps to get general country information",
   "main": "index.js",
   "scripts": {
