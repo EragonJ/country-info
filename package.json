@@ -1,0 +1,27 @@
+{
+  "name": "country-info",
+  "version": "1.0.0",
+  "description": "This is a library that helps to get general country information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EragonJ/country-info.git"
+  },
+  "keywords": [
+    "country",
+    "info",
+    "node",
+    "npm",
+    "module",
+    "timezone"
+  ],
+  "author": "EragonJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EragonJ/country-info/issues"
+  },
+  "homepage": "https://github.com/EragonJ/country-info#readme"
+}
